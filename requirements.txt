@@ -1,0 +1,10 @@
+python == 3.10.12
+numpy == 2.1.0
+pandas == 2.2.2
+seaborn == 0.13.2
+nltk == 3.9.1
+matplotlib == 3.10.1
+wordcloud == 1.9.4
+tensorflow == 2.19.0
+sklearn == 1.6.1
+keras == 3.9.1
